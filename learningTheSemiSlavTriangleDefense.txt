@@ -11,3 +11,5 @@ In response, White will try to develop and exert control of the center, by *5. e
 Black now plays the logical *5. ...b5*, supporting the pawn on c4.  Note that the move *2. ...c6* earlier supports this pawn on *b5* against White's Knight on c3.
 
 White now needs to break this formation apart, and vigorously.  This is best done by *6. a4*, threatening axb5, with the Knight's support.
+
+This is an ERROR!  Black now plays Qd1#, winning everything, ever.
