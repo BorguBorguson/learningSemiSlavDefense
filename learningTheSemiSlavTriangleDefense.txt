@@ -1,0 +1,7 @@
+Today I've been studying the Semi-Slav Defense; it's a defense where Black forms a triangular set of pawns on d5, c6, and e6 to oppose White's pawns on d4 and c4.
+
+The triangle variation establishes these pawns before developing the Black King's Knight, such that if the game has proceeded:
+
+*1.d4 d5 2.c4 e6 3.Nc3 c6*
+
+and White plays *4. Nf3*, Black may play *4. ... dxc4*. 
