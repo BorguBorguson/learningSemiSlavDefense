@@ -13,3 +13,5 @@ Black now plays the logical *5. ...b5*, supporting the pawn on c4.  Note that th
 White now needs to break this formation apart, and vigorously.  This is best done by *6. a4*, threatening axb5, with the Knight's support.
 
 This is an ERROR!  Black now plays Qd1#, winning everything, ever.
+
+Black would like to figure out how to advance the pawns on the Queen's side, so we can take advantage of our majority on this side.
